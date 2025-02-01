@@ -1,0 +1,5 @@
+aws-cdk-lib
+constructs
+python-dotenv
+colorlog
+boto3

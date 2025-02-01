@@ -1,0 +1,7 @@
+.pytest_cache
+__pycache__
+cdk.out
+.env
+lambda/**/lambda.zip
+lambda/**/package/
+.vscode/
